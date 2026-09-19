@@ -45,8 +45,8 @@ The backend automatically creates `backend/db/database.db` and inserts:
 - Admin account
 
 Admin login:
-- Email: admin@craftobites.com
-- Password: Admin@12345
+Admin login credentials are configured privately.
+Please use the environment variables provided during deployment.
 
 Change this password before using the project publicly.
 
